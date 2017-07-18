@@ -1,0 +1,1 @@
+This is a copy of cloudfroundy-cf module previously in clouddriver repo 
